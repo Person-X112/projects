@@ -1,0 +1,29 @@
+#kel, #cel, #far{
+    width: 80%;
+    line-height: 12em;
+    text-align: center;
+    text-transform: uppercase full-width;
+    font-family: roboto, sans-serif;
+    margin-top: 1.5px;
+    margin-left: auto;
+    font-size: large;
+    font-weight: 600;
+}
+#kel{
+    background-image: linear-gradient(to bottom right, firebrick, lightgoldenrodyellow);
+}
+#cel{
+    background-image: linear-gradient(to top right, blueviolet, turquoise);
+}
+#far{
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
+input{
+    border-radius: 20px;
+    text-decoration-color: black;    
+}
+body{
+    margin:auto;
+    text-align: center;
+    background-image: radial-gradient(circle at top right, red, blueviolet);    
+}
