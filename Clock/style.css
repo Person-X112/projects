@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(to left, #404040, black);
+    text-align: center;
+    font-family: orbitron, 'roboto condensed';
+    text-shadow: 5px;
+    color: #17D4FE;
+    font-size: 150px;
+}
+#disp{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    letter-spacing: 7px;
+    transform: translateX(-50%) translateY(-50%);
+}
